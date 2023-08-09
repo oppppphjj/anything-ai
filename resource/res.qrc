@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="openAI">
+    <file>openAI公司名称图片.png</file>
+    <file>openAI商标.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>pdf_icon.png</file>
+    <file>txt_icon.png</file>
+    <file>word_icon.png</file>
+    <file>xlsx_icon.png</file>
+    <file>cha.png</file>
+    <file>jian.png</file>
+  </qresource>
+</RCC>
